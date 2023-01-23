@@ -1,0 +1,5 @@
+rootProject.name = 'redis-multimodule'
+include 'redis-multimodule-api-model'
+include 'redis-multimodule-api-data'
+include 'redis-multimodule-api-service'
+include 'redis-multimodule-api-web'
